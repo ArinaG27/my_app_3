@@ -1,0 +1,12 @@
+.aboutUsCard {
+
+background: #EBEBEB;
+
+display: flex;
+flex-direction: column;
+justify-content: end;
+padding: 45px;   
+width: 255px;
+height: 255px;
+
+}
